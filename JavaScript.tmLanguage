@@ -12,7 +12,7 @@
 	<key>firstLineMatch</key>
 	<string>^#!\s*/.*\b(node|js)$\n?</string>
 	<key>name</key>
-	<string>JavaScript (Babel)</string>
+	<string>JavaScript</string><!-- JavaScript Babel v8.6.2 -->
 	<key>patterns</key>
 	<array>
 		<dict>
