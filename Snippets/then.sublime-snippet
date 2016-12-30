@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[.then(${1:fn})]]></content>
+    <tabTrigger>th</tabTrigger>
+    <scope>source.js</scope>
+    <description>then</description>
+</snippet>
