@@ -7,7 +7,9 @@ This package contains masks and modifications for Sublime Text JavaScript packag
 > git clone https://github.com/StreetStrider/sublime-JavaScript-handcrafts.git JavaScript
 ```
 
-**JavaScript.tmLanguage** and **JavaScript.sublime-syntax** is based on [babel-sublime](https://github.com/babel/babel-sublime) available under [MIT License](https://github.com/babel/babel-sublime/blob/master/LICENSE).
+**JavaScript.tmLanguage** and is based on [babel-sublime](https://github.com/babel/babel-sublime) available under [MIT License](https://github.com/babel/babel-sublime/blob/master/LICENSE).
+
+**JavaScriptNext.tmLanguage** is taken from [JavaScriptNext](https://github.com/Benvie/JavaScriptNext.tmLanguage) and available under [MIT License](https://github.com/Benvie/JavaScriptNext.tmLanguage/blob/master/LICENSE).
 
 **All Other files** are based on Sublime Text 3 defaults for JavaScript.
 
