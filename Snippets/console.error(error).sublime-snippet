@@ -2,5 +2,5 @@
     <content><![CDATA[console.error(${1:error})]]></content>
     <tabTrigger>err</tabTrigger>
     <scope>source.js</scope>
-    <description>console.log</description>
+    <description>console.error</description>
 </snippet>
