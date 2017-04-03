@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[module.exports = ${1}]]></content>
+    <content><![CDATA[module.exports = ${0}]]></content>
     <tabTrigger>mod</tabTrigger>
     <scope>source.js</scope>
     <description>module.exports</description>

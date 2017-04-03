@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[.then(${1:fn})]]></content>
+    <content><![CDATA[.then(${0:fn})]]></content>
     <tabTrigger>th</tabTrigger>
     <scope>source.js</scope>
     <description>then</description>

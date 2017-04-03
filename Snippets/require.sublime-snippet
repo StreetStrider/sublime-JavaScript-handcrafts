@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[require('${1:mod}')
+    <content><![CDATA[require('${0:mod}')
 
 ]]></content>
     <tabTrigger>req</tabTrigger>
