@@ -13,4 +13,4 @@ This package contains masks and modifications for Sublime Text JavaScript packag
 
 **All Other files** are based on Sublime Text 3 defaults for JavaScript.
 
-**All modifictions** are available under MIT License, © StreetStrider, 2014 — 2017.
+**All modifictions** are available under MIT License, © StreetStrider, 2014 — 2018.
